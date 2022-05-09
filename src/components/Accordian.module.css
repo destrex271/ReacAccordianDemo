@@ -1,0 +1,29 @@
+.main{
+    margin-top: 1px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 40px 40px 10px 10px;
+    border: 1px green solid;
+    width: 50%;
+    margin: 1%;
+    background-color: rgba(54, 115, 169, 0.187);
+}
+.question{
+    font-size: 2rem;
+}
+.answer{
+    background-color: rgba(46, 117, 180, 0.678);
+    border-radius: 10px;
+    padding: 2rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: azure;
+}
+
+.btn{
+    border-radius: 10%;
+    background-color: bisque;
+}
